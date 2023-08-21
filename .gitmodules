@@ -1,0 +1,3 @@
+[submodule "LoveBridge-Server"]
+	path = LoveBridge-Server
+	url = https://github.com/Likelion-at-SMWU-11th/LoveBridge-Server.git
